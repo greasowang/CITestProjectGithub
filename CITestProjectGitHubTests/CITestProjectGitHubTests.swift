@@ -7,7 +7,6 @@
 //
 
 import XCTest
-@testable import CITestProjectGitHub
 
 class CITestProjectGitHubTests: XCTestCase {
     
@@ -22,8 +21,13 @@ class CITestProjectGitHubTests: XCTestCase {
     }
     
     func testExample() {
-        // This is an example of a functional test case.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
+        XCTAssert(1==1)
+    }
+    func testExample2() {
+        XCTAssert(2==2)
+    }
+    func testExample3() {
+        XCTAssert(3==3)
     }
     
     func testPerformanceExample() {
