@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "f0ec2cc3375fdcdab1b4e46b10393b21"
+build_time: [1513224462, 584448000]
+inputs:
+  "/Users/greasowang/Desktop/Github/CITestProjectGitHub/CITestProjectGitHub/ViewController.swift": [9223372036, 854775807]
+  "/Users/greasowang/Desktop/Github/CITestProjectGitHub/CITestProjectGitHub/AppDelegate.swift": [9223372036, 854775807]
