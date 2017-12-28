@@ -469,7 +469,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Jacker Bon (P58H5ST3T5)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = P58H5ST3T5;
 				INFOPLIST_FILE = CITestProjectGitHubTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = GW.CITestProjectGitHubTests;
@@ -489,7 +489,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Jacker Bon (P58H5ST3T5)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Manual;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = P58H5ST3T5;
 				INFOPLIST_FILE = CITestProjectGitHubTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = GW.CITestProjectGitHubTests;
