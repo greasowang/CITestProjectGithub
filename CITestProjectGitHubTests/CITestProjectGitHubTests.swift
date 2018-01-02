@@ -29,7 +29,9 @@ class CITestProjectGitHubTests: XCTestCase {
     func testExample3() {
         XCTAssert(3==3)
     }
-    
+    func testExample4() {
+        XCTAssert(4==3)
+    }
     func testPerformanceExample() {
         // This is an example of a performance test case.
         self.measure {
